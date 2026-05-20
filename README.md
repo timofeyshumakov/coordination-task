@@ -109,7 +109,7 @@ npm run dev
 flowchart TB
   subgraph bitrix [Bitrix24]
     BX24[BX24.callMethod]
-    CRM[(Согласование счетов 1126)]
+    CRM[(Согласование счетов)]
   end
 
   subgraph app [Приложение Vue]
